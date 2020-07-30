@@ -8,3 +8,10 @@ body {
 }
 
 /* ---------------------------------------------------- */
+.tym{
+	display: flex;
+	flex-wrap: wrap;
+}
+.fotka{
+	border-radius: 50%;
+}
